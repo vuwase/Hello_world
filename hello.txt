@@ -1,0 +1,6 @@
+$ mkdir git- practice
+$ cd git practice
+$ git init
+$ echo " Hello, there"  > Hello.txt
+$ git add
+$ git commit -m " This is the first commit from Vaste Uwase"
